@@ -8,9 +8,9 @@ I am building expertise in binary exploitation and reverse engineering.
 
 **Currently:** Deep dive into reverse engineering and binary exploitation.
 
-**Stack:** C | x86 Assembly | GDB | Python | Bash
+**Stack:** C/C++ | x86 Assembly | Python | Bash
 
-**Active:** pwn.college, CryptoHack, custom exploitation labs
+**Active:** pwn.college
 
 
 [Discord](https://discord.gg/Jm9gXbxf4V) | [Website](https://itsmanikandan73.github.io/itsmanikandan.dev/)
