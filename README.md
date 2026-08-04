@@ -6,7 +6,7 @@ I am building expertise in binary exploitation and reverse engineering.
 
 **Projects:** Custom shells, bind shells, exploit automation tools, Linux utility reimplementations
 
-**Currently:** Deep dive into reverse engineering and binary exploitation.
+**Currently:** Deep dive into reverse engineering and Low-level programming.
 
 **Stack:** C/C++ | x86 Assembly | Python | Bash
 
