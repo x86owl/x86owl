@@ -13,5 +13,5 @@ I am building expertise in binary exploitation and reverse engineering.
 **Active:** pwn.college
 
 
-[Discord](https://discord.gg/Jm9gXbxf4V) | [Website](https://itsmanikandan73.github.io/x86owl.dev/)
+[Discord](https://discord.gg/Jm9gXbxf4V) | [Website](https://x86owl.github.io/x86owl.dev/)
 
